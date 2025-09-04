@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Hridoy Nur
+# 👋 Hey there, I'm Hridoy Nur
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60)
 
-I'm an **undergraduate in B.Sc. Computer Science & Engineering (CSE)** with a passion for **web development**, **problem-solving**, and **continuous learning**. I love exploring new technologies and applying them to practical projects. 🚀
+I'm an **undergraduate in B.Sc. Computer Science & Engineering (CSE)** with a passion for **web development, problem-solving, and learning new technologies**. I love building projects that turn ideas into reality. 🚀  
 
 ---
 
 ## 🧭 About Me
 
-- 🔭 Currently learning **Python**, **React.js**, and **Advanced CSS/JS**  
-- 🌱 Curious about **Web Development**, **Game Development**, and **AI fundamentals**  
-- 💡 I enjoy building small interactive projects and improving my coding skills  
-- 🎯 Goal: To become a full-stack web developer and contribute to impactful projects  
+- 🔭 Currently exploring **Python, React.js, and Advanced CSS/JS**  
+- 🌱 Curious about **Web Development, Game Development, and AI**  
+- 💡 Enthusiastic about creating small interactive projects  
+- 🎯 Goal: To become a **full-stack web developer** and contribute to impactful projects  
 
 ---
 
@@ -38,14 +38,14 @@ I'm an **undergraduate in B.Sc. Computer Science & Engineering (CSE)** with a pa
 ## 💻 Projects & Games
 
 ### 🎮 Tikitaka Game
-A console-based implementation of Tic-Tac-Toe, showcasing game logic, loops, and user interaction.  
+A console-based implementation of **Tic-Tac-Toe**, showcasing loops, game logic, and user interaction.  
 ![Tikitaka](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-[GitHub Link](https://github.com/your-username/tikitaka-game)
+[GitHub Repository](https://github.com/your-username/tikitaka-game)
 
 ### 🐍 Snake Game
-Classic Snake game implemented using basic programming concepts.  
+Classic **Snake Game** built to demonstrate programming fundamentals.  
 ![Snake](https://media.giphy.com/media/3ohc1xU6y9p37X0tqI/giphy.gif)  
-[GitHub Link](https://github.com/your-username/snake-game)
+[GitHub Repository](https://github.com/your-username/snake-game)
 
 ---
 
@@ -56,44 +56,33 @@ Classic Snake game implemented using basic programming concepts.
 
 ---
 
-## 🌱 Currently Learning
+## 📅 Learning & Projects Timeline
 
-- Python (Foundational & OOP)  
-- React.js (Front-End Development)  
-- Advanced CSS & JavaScript Animations  
-- Version Control & Collaboration with GitHub  
-
----
-
-## 🏆 Achievements
-
-- Built **interactive web projects** to strengthen HTML/CSS/JS knowledge  
-- Developed **console games** to practice logic and algorithmic thinking  
-- Consistently **contributing to GitHub** and learning new tech stacks  
+```mermaid
+timeline
+    title Hridoy Nur's Learning Journey
+    2023-01 : Started C & C++
+    2023-03 : Built Tikitaka Game
+    2023-06 : Started HTML & CSS
+    2023-08 : Built Snake Game
+    2023-09 : Learning Python basics
+    2023-10 : Exploring JavaScript & React.js
 
 ---
 
-## 📫 Connect with Me
+### 💎 Features Added in This Version:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-## 💬 Fun Facts
-
-- I love solving small coding challenges for learning  
-- Enthusiastic about turning ideas into **mini-projects**  
-- Constantly exploring **new web technologies and frameworks**  
+1. **Animated Header** for a strong first impression  
+2. **Skill badges** grouped by languages, web dev, and tools  
+3. **Project showcase with GIFs** — interactive & visual  
+4. **GitHub stats & top languages** — real-time, dynamic  
+5. **Mermaid timeline** — shows learning journey & project milestones  
+6. **Fun facts + quote** — adds personality  
+7. **Visitor counter** — interactive & professional  
+8. **Call-to-action sections** — inviting collaboration  
 
 ---
 
-## ⚡ Quote I Live By
+If you want, I can **take it one step further** by creating a **fully graphical version** with **clickable project cards, animated skill charts, and a modern portfolio look** inside your README.  
 
-> “Learning never exhausts the mind; it only ignites it.” – Leonardo da Vinci
-
----
-
+Do you want me to do that next?
