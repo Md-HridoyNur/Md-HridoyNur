@@ -1,8 +1,8 @@
-# 👋 Hey there, I'm Hridoy Nur
+# 👋 Hi, I'm Hridoy Nur
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60)
 
-I'm an **undergraduate in B.Sc. Computer Science & Engineering (CSE)** with a passion for **web development, problem-solving, and learning new technologies**. I love building projects that turn ideas into reality. 🚀  
+I'm an **undergraduate in B.Sc. Computer Science & Engineering (CSE)** with a passion for **web development, problem-solving, and learning new technologies**. I enjoy turning ideas into projects and continuously improving my skills. 🚀  
 
 ---
 
@@ -10,7 +10,7 @@ I'm an **undergraduate in B.Sc. Computer Science & Engineering (CSE)** with a pa
 
 - 🔭 Currently exploring **Python, React.js, and Advanced CSS/JS**  
 - 🌱 Curious about **Web Development, Game Development, and AI**  
-- 💡 Enthusiastic about creating small interactive projects  
+- 💡 Enjoy building small interactive projects and coding challenges  
 - 🎯 Goal: To become a **full-stack web developer** and contribute to impactful projects  
 
 ---
@@ -34,16 +34,24 @@ I'm an **undergraduate in B.Sc. Computer Science & Engineering (CSE)** with a pa
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 📫 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-profile)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+
+---
 ## 💻 Projects & Games
 
 ### 🎮 Tikitaka Game
-A console-based implementation of **Tic-Tac-Toe**, showcasing loops, game logic, and user interaction.  
+A console-based implementation of **Tic-Tac-Toe**, demonstrating game logic and loops.  
 ![Tikitaka](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
 [GitHub Repository](https://github.com/your-username/tikitaka-game)
 
 ### 🐍 Snake Game
-Classic **Snake Game** built to demonstrate programming fundamentals.  
+Classic **Snake Game** built using basic programming concepts.  
 ![Snake](https://media.giphy.com/media/3ohc1xU6y9p37X0tqI/giphy.gif)  
 [GitHub Repository](https://github.com/your-username/snake-game)
 
@@ -53,6 +61,7 @@ Classic **Snake Game** built to demonstrate programming fundamentals.
 
 ![Hridoy Nur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
 
 ---
 
@@ -70,19 +79,15 @@ timeline
 
 ---
 
-### 💎 Features Added in This Version:
+✅ **Instructions to Use**:
 
-1. **Animated Header** for a strong first impression  
-2. **Skill badges** grouped by languages, web dev, and tools  
-3. **Project showcase with GIFs** — interactive & visual  
-4. **GitHub stats & top languages** — real-time, dynamic  
-5. **Mermaid timeline** — shows learning journey & project milestones  
-6. **Fun facts + quote** — adds personality  
-7. **Visitor counter** — interactive & professional  
-8. **Call-to-action sections** — inviting collaboration  
+1. Replace all `your-username` with your GitHub username.  
+2. Replace social links with your actual profiles and email.  
+3. Paste this content into a `README.md` file in a repository named **exactly like your GitHub username**.  
+4. Commit & push to GitHub — your profile will display this **interactive portfolio style README**.  
 
 ---
 
-If you want, I can **take it one step further** by creating a **fully graphical version** with **clickable project cards, animated skill charts, and a modern portfolio look** inside your README.  
+If you want, I can **also make a version with clickable project cards and animated skill charts**—it will look almost like a **mini portfolio website inside GitHub**.  
 
 Do you want me to do that next?
