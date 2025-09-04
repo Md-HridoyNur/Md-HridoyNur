@@ -45,7 +45,7 @@ I'm an **undergraduate in B.Sc. Computer Science & Engineering (CSE)** with a pa
 ---
 ## 💻 Projects & Games
 
-### 🎮 Tikitaka Game
+### 🎮 Tic Tac Toe Game
 A console-based implementation of **Tic-Tac-Toe**, demonstrating game logic and loops.  
 ![Tikitaka](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
 [GitHub Repository](https://github.com/your-username/tikitaka-game)
@@ -61,7 +61,6 @@ Classic **Snake Game** built using basic programming concepts.
 
 ![Hridoy Nur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
 
 ---
 
@@ -76,18 +75,3 @@ timeline
     2023-08 : Built Snake Game
     2023-09 : Learning Python basics
     2023-10 : Exploring JavaScript & React.js
-
----
-
-✅ **Instructions to Use**:
-
-1. Replace all `your-username` with your GitHub username.  
-2. Replace social links with your actual profiles and email.  
-3. Paste this content into a `README.md` file in a repository named **exactly like your GitHub username**.  
-4. Commit & push to GitHub — your profile will display this **interactive portfolio style README**.  
-
----
-
-If you want, I can **also make a version with clickable project cards and animated skill charts**—it will look almost like a **mini portfolio website inside GitHub**.  
-
-Do you want me to do that next?
