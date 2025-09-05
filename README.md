@@ -73,8 +73,8 @@
 
 ### 🎮 Tic Tac Toe Game
 A console-based implementation of **Tic-Tac-Toe**, demonstrating game logic and loops.  
-![Tikitaka](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-[GitHub Repository](https://github.com/your-username/tikitaka-game)
+![Tic Tac toe](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
+[GitHub Repository](https://github.com/Md-HridoyNur/Tic-Tac-Toe)
 
 ### 🐍 Snake Game
 Classic **Snake Game** built using basic programming concepts.  
