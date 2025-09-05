@@ -78,6 +78,7 @@ A console-based Tic-Tac-Toe game in C++ featuring two-player mode and an unbeata
 
 ### 🐍 Snake Game
 A classic console-based Snake game in C++ with a growing tail, collectible fruits, and a 60-second timer that challenges players to score as much as possible. 
+
 <img src="Snake.jpg" alt="Snake Game" width="40%">
  
 [GitHub Repository](https://github.com/Md-HridoyNur/SnakeGame)
