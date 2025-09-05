@@ -75,9 +75,9 @@ Classic **Snake Game** built using basic programming concepts.
 ```mermaid
 timeline
     title Hridoy Nur's Learning Journey
-    2023-01 : Started C & C++
-    2023-03 : Built Tikitaka Game
-    2023-06 : Started HTML & CSS
-    2023-08 : Built Snake Game
-    2023-09 : Learning Python basics
-    2023-10 : Exploring JavaScript & React.js
+    2023-04 : Started HTML & CSS
+    2024-06 : Started C & C++
+    2025-02 : Built Tikitaka Game
+    2025-05 : Built Snake Game
+    2025-04 : Learning Python basics
+    2025-01 : Exploring JavaScript & React.js
