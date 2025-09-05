@@ -2,7 +2,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60)
 
-I'm an **undergraduate in B.Sc. Computer Science & Engineering (CSE)** with a passion for **web development, problem-solving, and learning new technologies**. I enjoy turning ideas into projects and continuously improving my skills. 🚀  
+👨‍💻 I’m an undergraduate student in Computer Science & Engineering (B.Sc. CSE) with a strong passion for 💻 coding, 🌐 web development, 🧩 problem-solving, and 🚀 exploring emerging technologies.
+
+✨ I enjoy building impactful projects — from idea to execution — while continuously expanding my skills.
+
+📌 My interests include ⚡ full-stack development, 🔢 algorithms, and ☁️ cloud computing.
+
+🎯 I aim to grow into a skilled software engineer who creates scalable, efficient, and user-friendly applications. 
 
 ---
 
