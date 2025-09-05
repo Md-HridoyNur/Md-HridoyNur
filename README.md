@@ -14,7 +14,7 @@
 
 ## 🧭 About Me
 
-- 🔭 Currently exploring **Python, React.js, and Advanced CSS/JS**  
+- 🔭 Currently exploring **Python, Advanced C++ and Advanced CSS/JS**  
 - 🌱 Curious about **Web Development, Game Development, and AI**  
 - 💡 Enjoy building small interactive projects and coding challenges  
 - 🎯 Goal: To become a **full-stack web developer** and contribute to impactful projects  
@@ -96,9 +96,6 @@ Classic **Snake Game** built using basic programming concepts.
   <img src="https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5" alt="HTML" style="box-shadow: 0 0 10px #FFA500;" />
   <img src="https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3" alt="CSS" style="box-shadow: 0 0 10px #1E90FF;" />
 </p>
-
-
-
 
 ---
 
