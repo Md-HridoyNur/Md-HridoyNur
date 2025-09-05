@@ -78,8 +78,9 @@ A console-based Tic-Tac-Toe game in C++ featuring two-player mode and an unbeata
 
 ### 🐍 Snake Game
 Classic **Snake Game** built using basic programming concepts.  
-![Snake](https://media.giphy.com/media/3ohc1xU6y9p37X0tqI/giphy.gif)  
-[GitHub Repository](https://github.com/your-username/snake-game)
+<img src="Snake.jpg" alt="Snake Game" width="40%">
+ 
+[GitHub Repository](https://github.com/Md-HridoyNur/SnakeGame)
 
 ---
 
