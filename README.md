@@ -72,8 +72,8 @@
 ## 💻 Projects & Games
 
 ### 🎮 Tic Tac Toe Game
-A console-based implementation of **Tic-Tac-Toe**, demonstrating game logic and loops.  
-![Tic Tac toe](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
+A console-based Tic-Tac-Toe game in C++ featuring two-player mode and an unbeatable AI opponent using the Minimax algorithm. 
+![Tic Tac toe](tictac.jpg)  
 [GitHub Repository](https://github.com/Md-HridoyNur/Tic-Tac-Toe)
 
 ### 🐍 Snake Game
