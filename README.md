@@ -23,30 +23,50 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue)
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+</p>
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h3 align="center">🌐 Web Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h3 align="center">🛠 Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+</p>
+
+
 
 ---
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/hridoynur/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://www.instagram.com/itz_hridoy._/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" />
+  </a>
+  <a href="https://www.facebook.com/md.hridoy.nur.2025" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
+  </a>
+</p>
 
 ---
 ## 💻 Projects & Games
@@ -65,8 +85,20 @@ Classic **Snake Game** built using basic programming concepts.
 
 ## 📈 GitHub Stats
 
-![Hridoy Nur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-75%25-lightgrey?style=for-the-badge&logo=c" alt="C" style="box-shadow: 0 0 10px #D3D3D3;" />
+  <img src="https://img.shields.io/badge/C++-70%25-blue?style=for-the-badge&logo=c%2B%2B" alt="C++" style="box-shadow: 0 0 10px #00599C;" />
+</p>
+
+<h3 align="center">🌐 Web Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5" alt="HTML" style="box-shadow: 0 0 10px #FFA500;" />
+  <img src="https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3" alt="CSS" style="box-shadow: 0 0 10px #1E90FF;" />
+</p>
+
+
+
 
 ---
 
