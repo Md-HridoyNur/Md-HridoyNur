@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hridoy Nur
+# 👋 Hey, I'm Hridoy Nur
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60)
 
@@ -77,7 +77,7 @@ A console-based Tic-Tac-Toe game in C++ featuring two-player mode and an unbeata
 [GitHub Repository](https://github.com/Md-HridoyNur/Tic-Tac-Toe)
 
 ### 🐍 Snake Game
-Classic **Snake Game** built using basic programming concepts.  
+A classic console-based Snake game in C++ with a growing tail, collectible fruits, and a 60-second timer that challenges players to score as much as possible. 
 <img src="Snake.jpg" alt="Snake Game" width="40%">
  
 [GitHub Repository](https://github.com/Md-HridoyNur/SnakeGame)
