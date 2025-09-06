@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+ 
 </p>
 
 <h3 align="center">🌐 Web Development</h3>
@@ -37,17 +37,13 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  
 </p>
 
 <h3 align="center">🛠 Tools & Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
 </p>
 
